@@ -1,5 +1,5 @@
 # Techturk Team
-Techturk is a team which will work on different request such as:
+Techturk is a team which will work on different requests such as:
 - Transcription
 - Pricing
 - Architectures
