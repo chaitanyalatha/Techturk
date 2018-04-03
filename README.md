@@ -25,7 +25,7 @@ This section describes the prerequisites for requesting for support.
 
 **Input**
 
-- Go to Google Drive : Delivery -> Architecture and AWS Pricing Review
+- Go to Google Drive : Delivery -> Architecture and AWS Pricing Review  
   **Note**: If a project folder already exists, you can share the inputs there.
 - Create a folder with the project or customer name and upload all relevant files to this folder.
 - The team working on pricing will refer to this folder to create architecture diagrams and pricing.
