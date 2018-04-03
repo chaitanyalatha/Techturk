@@ -1,4 +1,5 @@
 # Techturk Team
+
 Techturk is a team which will work on different requests such as:
 - Transcription
 - Pricing
@@ -8,6 +9,7 @@ Techturk is a team which will work on different requests such as:
 - Whiteboard Diagrams
 
 # About REAN TechTurk
+
 Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; you might need something transcribed, you might need an architecture diagram or pricing done. We can expand the scope. 
 
 ## AWS Pricing and Architecture Diagrams
@@ -30,6 +32,7 @@ This section describes the prerequisites for requesting for support.
 - Once Team works on the deliverable, they will place back the deliverable under the same folder.
 
 **Procedure**
+
 Please click the below link and update the details as requested.
 
 Pricing/Architecture diagram request 
@@ -37,6 +40,7 @@ Pricing/Architecture diagram request
 **Note**: If the task turnaround time is less, please shoot an e-mail to TechTurk@reancloud.com to expedite the process.
 
 **Output**
+
 - All the outputs will be available by next day in Google drive: Delivery -> Architecture and AWS Pricing Review
 
 Engineering Team: Please make sure that you include below points in the output section.
