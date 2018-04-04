@@ -10,7 +10,7 @@ Techturk is a team which will work on different requests such as:
 
 # About [REAN](https://www.reancloud.com/) TechTurk
 
-Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; 
+> Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; 
 - You might need something transcribed
 - You might need an architecture diagram or pricing done.
 - We can expand the scope. 
@@ -25,6 +25,8 @@ This section describes the prerequisites for requesting for support.
 - Basic rough architecture diagrams to be shared
 - Google folder link containing customer details.
 - For any price calculations, please include instance details, instance types, Database details etc.
+
+[Sample Whiteboard Diagram](http://agilemodeling.com/images/models/freeForm.JPG)
 
 **Input**
 
@@ -45,8 +47,7 @@ Pricing/Architecture diagram request
 **Output**
 
 - All the outputs will be available by next day in Google drive: Delivery -> Architecture and AWS Pricing Review
-
-Engineering Team: Please make sure that you include below points in the output section.
+    **Note:** Engineering Team: Please make sure that you include below points in the output section.
 - AWS Calculator links (helpful for us when quoting our managed services and other 3rd party services)
 - Architecture Diagram 
 - If suggesting RI's, could you please insert upfront cost for partial, full-upfront options.
@@ -54,18 +55,14 @@ Engineering Team: Please make sure that you include below points in the output s
 Repo Links: Pricing/Architecture Diagram Support
 
 ## Drawing and Documenting Whiteboards
-
-Any ideas, architecture diagrams or sequence diagrams that are discussed by Engineering on a white board and have the requirement to convert this whiteboard picture into a lucid diagram and document then please follow this procedure:
-
+> Any ideas, architecture diagrams or sequence diagrams that are discussed by Engineering on a white board and have the requirement to convert this whiteboard picture into a lucid diagram and document then please follow this procedure:
 - Send an email to TechTurk@reancloud.com
 - Please attach the picture and relevant document to the email and proper subject with a good description in the email.
 - The Engineer working on it will create a JIRA Ticket under INV project and share the ticket with the requester.
 - Once the work is complete, they will attach the artifact to the ticket and send the mail to the requester of completion.
 
 ## Transcribing the Recording
-
-Any recorded meetings with the customer or internal training or vendor training sessions sometimes are required to be transcribed and documented. In order to get it done, please follow this procedure:
-
+> Any recorded meetings with the customer or internal training or vendor training sessions sometimes are required to be transcribed and documented. In order to get it done, please follow this procedure:
 - Send an email to TechTurk@reancloud.com
 - Please provide the link to the recorded video or audio to the email and also have a proper subject with a good description in the email.
 - TechTurk team will initially create a JIRA Ticket under INV project and share the ticket with the requester.
