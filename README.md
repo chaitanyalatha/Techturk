@@ -10,7 +10,10 @@ Techturk is a team which will work on different requests such as:
 
 # About REAN TechTurk
 
-Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; you might need something transcribed, you might need an architecture diagram or pricing done. We can expand the scope. 
+Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; 
+- You might need something transcribed
+- You might need an architecture diagram or pricing done.
+- We can expand the scope. 
 
 ## AWS Pricing and Architecture Diagrams
 
