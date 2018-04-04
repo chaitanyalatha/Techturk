@@ -56,6 +56,7 @@ Repo Links: Pricing/Architecture Diagram Support
 ## Drawing and Documenting Whiteboards
 
 Any ideas, architecture diagrams or sequence diagrams that are discussed by Engineering on a white board and have the requirement to convert this whiteboard picture into a lucid diagram and document then please follow this procedure:
+
 - Send an email to TechTurk@reancloud.com
 - Please attach the picture and relevant document to the email and proper subject with a good description in the email.
 - The Engineer working on it will create a JIRA Ticket under INV project and share the ticket with the requester.
@@ -64,6 +65,7 @@ Any ideas, architecture diagrams or sequence diagrams that are discussed by Engi
 ## Transcribing the Recording
 
 Any recorded meetings with the customer or internal training or vendor training sessions sometimes are required to be transcribed and documented. In order to get it done, please follow this procedure:
+
 - Send an email to TechTurk@reancloud.com
 - Please provide the link to the recorded video or audio to the email and also have a proper subject with a good description in the email.
 - TechTurk team will initially create a JIRA Ticket under INV project and share the ticket with the requester.
