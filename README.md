@@ -8,7 +8,7 @@ Techturk is a team which will work on different requests such as:
 - Preparing Slide decks
 - Whiteboard Diagrams
 
-# About REAN TechTurk
+# About [REAN] (https://www.reancloud.com/) TechTurk
 
 Technical Turk (Techturk) enables individuals to coordinate the use of human intelligence information to perform tasks. Some of the typical use cases for this are; 
 - You might need something transcribed
